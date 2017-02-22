@@ -1,9 +1,9 @@
 # Linebot
 
->  git clone https://github.com/sarunyu/Linebot.git
+>  # git clone https://github.com/sarunyu/Linebot.git
 
->  cd Linebot 
+>  # cd Linebot 
 
->  npm install 
+>  # npm install 
 
->  node line.js 
+>  # node line.js 
