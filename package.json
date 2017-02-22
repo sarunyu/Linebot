@@ -1,0 +1,21 @@
+{
+  "name": "Linebot",
+  "version": "1.0.0",
+  "description": "Line bot + ngrok",
+  "main": "line.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sarunyoo Chomphoophon <sarunyoo.cho@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sarunyu/Linebot.git"
+   }
+  "license": "ISC",
+  "dependencies": {
+	"linebot":"^1.2.1",
+	"ngrok":"^2.2.6"	
+  }
+
+}
